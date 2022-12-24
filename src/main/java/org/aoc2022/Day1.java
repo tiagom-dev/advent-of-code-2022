@@ -1,4 +1,4 @@
-package org.example;
+package org.aoc2022;
 
 import java.io.File;
 import java.io.IOException;
